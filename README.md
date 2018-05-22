@@ -1,4 +1,4 @@
 # hello-world
 first repository
 Hi Humans!
-I've already registered in GitHub!
+I've just registered in GitHub!
